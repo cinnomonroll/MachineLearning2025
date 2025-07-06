@@ -9,7 +9,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using la
 This project follows a **RAG with Agents** flow, illustrated below:
 
 <p align="center">
-  <img src="ML1/images/Screenshot 2025-07-06 at 2.19.23 PM.png" alt="RAG with Agents Architecture" width="600"/>
+  <img src="/Users/ting/Documents/ML/ML1/images/Screenshot 2025-07-06 at 2.19.23 PM.png" alt="RAG with Agents Architecture" width="600"/>
 </p>
 
 The pipeline includes:
