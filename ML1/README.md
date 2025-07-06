@@ -8,7 +8,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using la
 
 This project follows a **RAG with Agents** flow, illustrated below:
 
-![RAG with Agents Architecture](ML1/images/Screenshot 2025-07-06 at 2.19.23 PM.png)
+![RAG with Agents Architecture](./images/flow.png)
 
 The pipeline includes:
 - **Keyword Extraction Agent:** Extracts search keywords from user questions.
