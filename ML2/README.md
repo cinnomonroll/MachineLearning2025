@@ -40,7 +40,7 @@ Below are visualizations of the workflow and action space.
 - **Drafts** may loop back for debugging/improvement until a satisfactory solution is found.
 
 ### Action
-![Action](./images/action_space.png)
+![Action](./images/action.png)
 
 - 1st Draft: code, execution, feedback.
 
